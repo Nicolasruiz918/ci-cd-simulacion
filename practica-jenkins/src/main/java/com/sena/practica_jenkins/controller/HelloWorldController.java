@@ -11,6 +11,6 @@ public class HelloWorldController {
     @GetMapping("")
     public String getMethodName() {
 
-        return "Hola mundo como estan, esta es una prueba de Jenkins y parece ser estar bien ";
+        return "Hola mundo como estan, esta es una prueba de Jenkins y parece ser estar bien  configurado";
     }
 }
