@@ -11,6 +11,6 @@ public class HelloWorldController {
     @GetMapping("")
     public String getMethodName() {
 
-        return "Hola mundo como estan todooooos";
+        return "Hola mundo como estan todoos";
     }
 }
