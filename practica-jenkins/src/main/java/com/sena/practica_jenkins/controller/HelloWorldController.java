@@ -10,6 +10,6 @@ public class HelloWorldController {
 
     @GetMapping("")
     public String getMethodName() {
-        return "Hola mundo, integracion final completa - Pipeline CI/CD funcionando correctamente para la interacion 5";
+        return "VERSION FINAL - Pipeline CI/CD completado exitosamente - 5 iteraciones correctas";
     }
 }
