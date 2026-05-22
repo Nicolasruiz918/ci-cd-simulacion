@@ -10,7 +10,6 @@ public class HelloWorldController {
 
     @GetMapping("")
     public String getMethodName() {
-        System.out.println( // ← Error: falta cerrar paréntesis y punto y coma
         return "Hola mundo como estan, esta es una prueba de Jenkins y parece ser estar bien ";
     }
 }
