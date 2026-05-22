@@ -10,6 +10,6 @@ public class HelloWorldController {
 
     @GetMapping("")
     public String getMethodName() {
-        return "Hola mundo como estan, esta es una prueba de Jenkins integrada correctamente";
+        return "VERSION FINAL - Pipeline CI/CD completado exitosamente - 5 iteraciones correctas";
     }
 }
