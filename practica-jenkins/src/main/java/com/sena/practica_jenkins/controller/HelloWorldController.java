@@ -14,5 +14,3 @@ public class HelloWorldController {
         return "Hola mundo como estan, esta es una prueba de Jenkins y parece ser estar bien ";
     }
 }
-
-System.out.println(
